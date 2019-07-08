@@ -1,7 +1,7 @@
 # TriviaGame
 This is my trivia game I made during the Richmond Coding Bootcamp, it's pretty tough for any of you non car guys.
 
-**How to play**  <br />
+**How to play** 
 
 Follow this link! **https://ali-row.github.io/TriviaGame/**
 
